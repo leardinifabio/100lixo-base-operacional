@@ -1,0 +1,1 @@
+# 100lixo-base-operacional
